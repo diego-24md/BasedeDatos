@@ -75,3 +75,4 @@ Ejemplos de consultas que se pueden realizar para obtener información clave:
 - Almacenar fecha y hora de inicio y fin de cada examen para seguimiento.
 - Implementar roles diferenciados (administrador, alumno).
 - Mostrar resultados vigesimales y calificaciones automáticas según respuestas.
+ 
